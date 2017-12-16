@@ -1,0 +1,311 @@
+h3{
+	text-align: center;
+	font: 14pt bold italic sans-serif;
+	color: #063353;
+}
+/*------------------------------*/
+h4{
+	text-align: center;
+	font: 12pt bold italic sans-serif;
+	color: #063353;
+}
+/*------------------------------*/
+p.mycopyright{
+	text-align: center;
+	font: 8pt oblique sans-serif;
+	color: #063353;
+}
+/*------------------------------*/
+p.helptext{
+	text-align: left;
+	font: 10pt sans-serif;
+	color: #063353;
+}
+/*------------------------------*/
+p.wizardtext{
+	text-align: left;
+	font: 10pt sans-serif;
+	color: #063353;
+	background: #a5c8e0;
+/*	background: #c4d6e3;	*/
+}
+/*------------------------------*/
+td.textcell{
+	text-align: left;
+	font: 10pt sans-serif;
+	color: #063353;
+/*	width: 50 %;	*/
+	background: #c4d6e3;
+}
+/*------------------------------*/
+td.darkertextcell{
+	text-align: left;
+	font: 10pt sans-serif;
+	color: #063353;
+/*	width: 50 %;	*/
+	background: #a5c8e0;
+}
+/*------------------------------*/
+td.yellowtextcell{
+	text-align: left;
+	font: 10pt sans-serif;
+	color: #063353;
+	background: #ffffaa;
+}
+/*------------------------------*/
+td.bgtextcell{
+	text-align: left;
+	font: 10pt sans-serif;
+	color: #063353;
+	background: #b6d0e2;
+}
+/*------------------------------*/
+select.mydarkselect{
+	text-align: left;
+	font: 10pt italic sans-serif;
+	color: #063353;
+	background: #b6d0e2;
+}
+/*------------------------------*/
+select.mylightselect{
+	text-align: left;
+	font: 10pt italic sans-serif;
+	color: #063353;
+	background: #c4d6e3;
+}
+/*------------------------------*/
+input.myinput{
+	text-align: center;
+	font: 10pt sans-serif;
+	color: #063353;
+}
+/*------------------------------*/
+input.invis{
+	border-style: solid;
+	border-top-color: #b6d0e2;
+	border-bottom-color: #b6d0e2;
+	border-left-color: #b6d0e2;
+	border-right-color: #b6d0e2;
+	background: #b6d0e2;
+	text-align: center;
+	font-family: sans-serif;
+	font-size:9pt;
+	color: #063353;
+	vertical-align:text-bottom;
+}
+/*------------------------------*/
+fieldset.myfieldset{
+	font-size: 12px;
+	color: #386ec0;
+	font-style: italic;
+/*	margin: 2px;
+	vertical-align:text-bottom; */
+	padding-bottom: 15px;
+	padding-top: 0px;
+}
+/*------------------------------*/
+.legendtext{
+	font-size: 12px;
+	color: #386ec0;
+	font-style: italic;
+}
+/*------------------------------*/
+h6.helpheading{
+	text-align: left;
+	font: 10pt sans-serif;
+	color: #063353;
+/*	width: 50 %;	*/
+/*	background: #c4d6e3; */
+}
+/*------------------------------*/
+p{
+	text-align: center;
+	font-size: 8px;
+	font-style: italic;
+}
+/*------------------------------*/
+.addweights_table{
+	margin: 0px;
+	padding: 0px;
+/*	border: 2px solid #1584d2; */
+	background-color: #b6d0e2;
+	color: #000000;
+}
+/*---------------------------------------*/
+.showhelp_table{
+	border:gray;	
+	background-color: #c4d6e3;
+	color: #063353;
+	font: 10pt sans-serif;
+}
+/*---------------------------------------*/
+.showtutorial_table{
+	margin: 5px;
+	padding: 8px;
+	text-align:left;
+	font: 10pt sans-serif;
+	background-color: #ffffee;
+	color: #000000;
+}
+/*---------------------------------------*/
+.outertable{
+/*	width: 350 px; */
+	margin: 0px;
+	padding: 0px;
+	border: 2px solid #1584d2;
+	background-color: #b6d0e2;
+}
+/*------------------------------*/
+.datatable{
+	margin: 0px;
+	padding: 0px;
+/* 	border: 2px solid #1584d2;	*/
+	background-color: #b6d0e2;
+}
+
+/*------------------------------*/
+fieldset{
+	margin-top: 0px;
+	border: 1px;
+	padding-left: 2px;
+	padding-right: 2px;
+	font-size: 10px;
+/*	color: #386ec0; */
+	color: #4c4c8e;
+/*	color: #000000;  */
+	font-style: italic;
+}
+/*------------------------------*/
+.inputgroup{
+	color: #330000;
+}
+/*------------------------------*/
+.weightgrouptable{
+/*	border: 1px solid #eeeeee; */
+	width:100%;
+	margin: 0;
+	border-spacing: 2px;
+	color: #030000;
+	font-size: 8px;
+	font-weight: bold;
+}
+.gearboxgrouptable{
+	margin: 0px;
+	border-spacing: 2px;
+	color: #030000;
+	font-size: 8px;
+	font-weight: bold;
+}
+
+.propgrouptable{
+/*	border: 1px solid #eeeeee; */
+	margin: 0;
+	border-spacing: 2px;
+	color: #030000;
+	font-size: 8px;
+	font-weight: bold;
+}
+
+.batgrouptable{
+/*	border: 1px solid #eeeeee; */
+	margin: 0;
+	border-spacing: 2px;
+	color: #030000;
+	font-size: 8px;
+	font-weight: bold;
+}
+.resultsgrouptable{
+	text-align: left;
+	font: 10pt sans-serif;
+	color: #063353;
+/*	background: #ffffaa;	*/
+	background: #eeee88;	/*darker*/
+	background: #b6d0e2;	/*darker*/
+	width: 100%;
+/*	border: 1px solid #ffffff; */ /*white border*/
+	margin: 0;
+}
+/*----------------------------------------------*/
+.input{
+	color: #063353;
+	text-align: right;
+}
+a:link { 
+	color: #386ec0;
+	font-size: 12px;
+	font-style: italic;
+}
+
+/*change color of links */
+
+a:visited{ 
+/*        color: #333333;	*/
+	color: #386ec0;
+	font-size: 12px;
+	font-style: italic;
+}
+
+a:hover { 
+/*	color: #880000 ; */
+	color: #386ec0;	
+	background-color: #ffffaa;
+        text-decoration: none;
+	font-size: 12px;
+/*	font-weight: bold; */
+	font-style: italic;
+}
+
+a:active{ 
+/*        color: #333333; */
+	font-size: 12px;
+	color: #386ec0;
+	font-style: italic;
+}
+/*----------------------*/
+a.clicker:active{
+	color: #386ec0;
+	font-style: italic;
+}
+/*----------------------*/
+a.clicker:hover {
+	background-color: #ffff33;
+	color: #FFFFFF;
+}
+a.wizardclass{
+/*	background-color: #ffff33; */
+	background-color: #a5c8e0;
+/*	color: #ff0000;  */
+	font-size:larger;
+
+}
+input.clickbtn{
+	color: #265a7f;
+/*	font-size: 80%;  */
+	font-weight: bold;
+	background-color: #d9e9ff;
+	margin-left: 5px;
+	margin-top: 3px;
+}
+/*------------------------------------*/
+input.darkerclickbtn{
+	color: #265a7f;
+	font-size: 100%;
+	font-weight: bold;
+	background-color: #a5c8e0;
+	margin-left: 5px;
+	margin-top: 3px;
+}
+/*------------------------------------*/
+/*styles for help pages that pop up in the middle cell Jun 25 2008*/
+body.bluebg{
+	background-color: #b6d0e2;
+}
+
+/*
+     FILE ARCHIVED ON 13:23:06 Mar 26, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:25:08 Nov 03, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
